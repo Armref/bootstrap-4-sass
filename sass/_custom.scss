@@ -1,0 +1,7 @@
+@include font-face("Opensans", font-files("opensans-webfont.ttf", "opensans-webfont.svg", "opensans-webfont.eot", "opensans-webfont.woff", "opensans-webfont.woff2"));
+
+
+h1 {
+  font-family: "Opensans";
+  color: red;
+}

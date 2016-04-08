@@ -1,0 +1,21 @@
+@import "compass/reset";
+@import "compass/css3/font-face";
+
+// Import custom Bootstrap variables
+@import "bootstrap-variables";
+// Import Bootstrap
+@import "bootstrap-custom";
+// or Import Bootstrap Flex
+// @import "bootstrap-flex";
+// or Import Bootstrap Grid
+// @import "bootstrap-grid";
+// or Import Bootstrap Reboot
+// @import "bootstrap-reboot";
+
+
+
+@import "custom";
+
+p{
+  color: blue;
+}
